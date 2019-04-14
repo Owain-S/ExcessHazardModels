@@ -1,3 +1,9 @@
+###########################################################################################################################
+# R code associated to the paper 
+# "On models for the estimation of the excess mortality hazard in case of insufficiently stratified life tables"
+# See also: http://rpubs.com/FJRubio/FGH
+###########################################################################################################################
+
 rm(list=ls())
 
 # Required packages
